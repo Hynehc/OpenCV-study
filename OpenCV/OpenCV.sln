@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCV", "OpenCV\OpenCV.vcxproj", "{BFD18F62-3EFF-4FE3-92E2-731582C9F5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD18F62-3EFF-4FE3-92E2-731582C9F5DD}.Debug|x64.ActiveCfg = Debug|x64
+		{BFD18F62-3EFF-4FE3-92E2-731582C9F5DD}.Debug|x64.Build.0 = Debug|x64
+		{BFD18F62-3EFF-4FE3-92E2-731582C9F5DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFD18F62-3EFF-4FE3-92E2-731582C9F5DD}.Debug|x86.Build.0 = Debug|Win32
+		{BFD18F62-3EFF-4FE3-92E2-731582C9F5DD}.Release|x64.ActiveCfg = Release|x64
+		{BFD18F62-3EFF-4FE3-92E2-731582C9F5DD}.Release|x64.Build.0 = Release|x64
+		{BFD18F62-3EFF-4FE3-92E2-731582C9F5DD}.Release|x86.ActiveCfg = Release|Win32
+		{BFD18F62-3EFF-4FE3-92E2-731582C9F5DD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08223C95-7875-4710-8A1A-85FC5D74A4F0}
+	EndGlobalSection
+EndGlobal
