@@ -1,0 +1,12 @@
+﻿  源.cpp
+D:\OpencvCode\test6\test6\源.cpp(56,42): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\OpencvCode\test6\test6\源.cpp(56,26): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  test6.vcxproj -> D:\OpencvCode\test6\x64\Debug\test6.exe
