@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\OpencvCode\test9\test9\源.cpp(77,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\OpencvCode\test9\test9\源.cpp(121,9): warning C4101: “hist”: 未引用的局部变量
+  test9.vcxproj -> D:\OpencvCode\test9\x64\Debug\test9.exe
