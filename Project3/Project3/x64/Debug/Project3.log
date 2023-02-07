@@ -1,0 +1,22 @@
+﻿  源.cpp
+D:\OpencvCode\Project3\Project3\源.cpp(117,47): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\OpencvCode\Project3\Project3\源.cpp(117,28): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\OpencvCode\Project3\Project3\源.cpp(212,47): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\OpencvCode\Project3\Project3\源.cpp(212,28): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  Project3.vcxproj -> D:\OpencvCode\Project3\x64\Debug\Project3.exe
