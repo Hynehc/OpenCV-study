@@ -1,0 +1,26 @@
+﻿  源.cpp
+D:\OpencvCode\Project4\Project4\源.cpp(114,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OpencvCode\Project4\Project4\源.cpp(134,47): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\OpencvCode\Project4\Project4\源.cpp(134,28): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\OpencvCode\Project4\Project4\源.cpp(216,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OpencvCode\Project4\Project4\源.cpp(236,47): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\OpencvCode\Project4\Project4\源.cpp(236,28): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\OpencvCode\Project4\Project4\源.cpp(274,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\OpencvCode\Project4\Project4\源.cpp(275,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Project4.vcxproj -> D:\OpencvCode\Project4\x64\Debug\Project4.exe
